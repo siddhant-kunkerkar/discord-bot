@@ -1,15 +1,20 @@
+# Python
 __pycache__/
 *.pyc
-*.pyo
 
+# Virtual environments
 venv/
 venv1/
-.env
 
+# Secrets
+.env
+credentials.json
 bot_settings.json
 
-*.log
-
-.idea/
+# IDE
 .vscode/
-credentials.json
+.idea/
+options.csv
+cogs/user_credits.json
+'ystemctl status'
+
