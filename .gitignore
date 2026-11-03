@@ -16,5 +16,4 @@ bot_settings.json
 .idea/
 options.csv
 cogs/user_credits.json
-'ystemctl status'
-
+ystemctl status
